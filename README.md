@@ -1,4 +1,6 @@
 # Photoshop Distribute layers in canvas
+[Readme en español](https://github.com/ciskosv/Photoshop-Distribute-layers-in-canvas/blob/main/README%20ES.md)
+
 Photoshop script to distribute all you layers along your canvas.
 
 I needed this script to print all the bibs for a race, each bib was previously generated individually to have the runner's name and number, so then I needed to put them all together based on the bib's material's roll's width to be printed.
